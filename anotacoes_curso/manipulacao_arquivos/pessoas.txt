@@ -1,0 +1,5 @@
+﻿nome: Carla, idade:  15
+nome: Maria, idade:  45
+nome: João, idade:  63
+nome: Ana, idade:  21
+nome: Matheus, idade:  20
